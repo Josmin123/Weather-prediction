@@ -9,6 +9,9 @@ the model performed better than before.There are many possible way we can imporv
 Project Steps
 
 Download weather data
+
 Clean and graph data
+
 Create a testing framework
+
 Improve model accuracy
